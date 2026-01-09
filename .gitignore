@@ -1,0 +1,41 @@
+# R Data Files
+*.RData
+*.RDS
+*.rda
+*.rds
+
+# R History
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# Output files
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.Rproj.user
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
